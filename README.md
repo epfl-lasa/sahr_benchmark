@@ -2,7 +2,9 @@
 
 #### This repo contains code and information about the "Benchmark for Bimanual Robotic Manipulation of Semi-deformable Objects" benchmark.
 
-## Authors
+More information about the benchmark is available at https://www.epfl.ch/labs/lasa/sahr/benchmark/.
+
+## Authors of tracking code
 
 - Authors/Maintainers: Konstantinos Chatzilygeroudis, Fanjun Bu
 - Other contributors: Bernardo Fichera
