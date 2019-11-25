@@ -1,3 +1,25 @@
+#!/usr/bin/env python
+# encoding: utf-8
+#|
+#|    Copyright (C) 2019 Learning Algorithms and Systems Laboratory, EPFL, Switzerland
+#|    Authors:  Konstantinos Chatzilygeroudis (maintainer)
+#|              Fanjun Bu
+#|              Bernardo Fichera
+#|    email:    konstantinos.chatzilygeroudis@epfl.ch
+#|              frankbu0616@gmail.com
+#|              bernardo.fichera@epfl.ch
+#|    website:  lasa.epfl.ch
+#|
+#|    You can redistribute it and/or modify
+#|    it under the terms of the GNU General Public License as published by
+#|    the Free Software Foundation, either version 3 of the License, or
+#|    (at your option) any later version.
+#|
+#|    This code is distributed in the hope that it will be useful,
+#|    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#|    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#|    GNU General Public License for more details.
+#|
 # System libs
 import glob
 import sys
